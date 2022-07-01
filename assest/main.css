@@ -40,6 +40,7 @@ h2 {
     align-items: center;
     justify-content: center;
     place-content: center;
+    max-width: 400px;
 }
 
 .lottie {
