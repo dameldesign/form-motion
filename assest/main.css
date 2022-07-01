@@ -91,4 +91,12 @@ p {
       width: 75%;
       height: auto;
     }
+    .form-containter {
+        max-width: 250px;
+        background: white;
+        box-shadow: 20px 20px 40px rgb(255, 211, 240);
+        border-radius: 1em;
+        padding: 2rem;
+        position: relative;
+    }
 }
