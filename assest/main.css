@@ -46,7 +46,7 @@ h2 {
 .lottie {
     width: 100%;
     height: 100vh;
-    background-size: cover;
+    /* background-size: cover; */
     
     pointer-events: none;
     opacity: 0;
