@@ -81,18 +81,18 @@ p {
     background: rgb(245, 243, 235);
 }
 
-.onstart {
+.onstart  {
     position: absolute;
     top: -180px;
 }
 
 @media screen and (max-width: 600px){
-    .onstart{
-      width: 75%;
-      height: auto;
+    .onstart lottie-player{
+      width: 200px;
+      height: 200px;
     }
     .form-containter {
-        max-width: 250px;
+        max-width: 300px;
         background: white;
         box-shadow: 20px 20px 40px rgb(255, 211, 240);
         border-radius: 1em;
