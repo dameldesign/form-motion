@@ -85,3 +85,10 @@ p {
     position: absolute;
     top: -180px;
 }
+
+@media screen and (max-width: 600px){
+    .onstart{
+      width: 75%;
+      height: auto;
+    }
+}
