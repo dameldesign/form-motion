@@ -86,7 +86,7 @@ p {
     top: -180px;
 }
 
-@media screen and (max-width: 600px){
+/* @media screen and (max-width: 600px){
     .onstart lottie-player{
       width: 200px;
       height: 200px;
@@ -99,4 +99,4 @@ p {
         padding: 2rem;
         position: relative;
     }
-}
+} */
